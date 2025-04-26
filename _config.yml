@@ -1,0 +1,25 @@
+title:              Chispi DevLog
+email:              cristinafg.it@gmail.com
+description:        Diario de desarrollo automatizado con Notion, Start Bootstrap, Jekyll y GitHub
+author:             Cristina Fuentes
+baseurl:            "/Chispi-DevLog"
+url:                "https://chispidev.github.io/Chispi-DevLog"
+
+# Social Profiles
+twitter_username:   cristinafg-it.bsky.social
+github_username:    ChispiDEV
+# facebook_username:  
+# instagram_username:  
+linkedin_username:  cristina-fg
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-KKN4WJL07V # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
