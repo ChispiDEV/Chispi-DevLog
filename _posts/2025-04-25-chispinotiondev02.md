@@ -11,7 +11,7 @@ resources: "  []"
 projects:   []
 publish: true
 status: "Publicado"
-background: ""  # Aquí agregamos el campo de fondo
+background: "C:/Users/User/Documents/GitHub/Chispi-DevLog/img/posts/post-02.jpg"  # Aquí agregamos el campo de fondo
 ---
 
 Buenos días el último día de la semana!

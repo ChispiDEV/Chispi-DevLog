@@ -11,7 +11,7 @@ resources: "- https://github.com/startbootstrap/startbootstrap-clean-blog-jekyll
 projects:   []
 publish: true
 status: "Publicado"
-background: ""  # Aquí agregamos el campo de fondo
+background: "C:/Users/User/Documents/GitHub/Chispi-DevLog/img/posts/post-03.jpg"  # Aquí agregamos el campo de fondo
 ---
 
 Feliz sábado!!
