@@ -8,10 +8,10 @@ slug: "chispinotiondev02"
 mood: "Bloqueada"
 issues: "1. Página deja de cargar. \n 2. No se muestran los cambios de la apariencia"
 resources: "  []"
-projects:   []
+projects: - Chispi-DevLog
 publish: true
 status: "Publicado"
-background: "C:/Users/User/Documents/GitHub/Chispi-DevLog/img/posts/post-02.jpg"  # Aquí agregamos el campo de fondo
+background: "/img/posts/post-02.jpg"  # Aquí agregamos el campo de fondo
 ---
 
 Buenos días el último día de la semana!

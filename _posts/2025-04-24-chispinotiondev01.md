@@ -8,10 +8,10 @@ slug: "chispinotiondev01"
 mood: "Motivada"
 issues: "1. Error en el tipo de propiedad de la sección “Estado” → Cambiar en el script la propiedad buscada \n 2. El contenido no se escribía en el archivo .md → Modificar script para que lea el texto del apartado, comentar la sección del script en el que se genera el contenido de forma dinámica \n"
 resources: "  []"
-projects:   []
+projects: - Chispi-DevLog
 publish: true
 status: "Publicado"
-background: "C:/Users/User/Documents/GitHub/Chispi-DevLog/img/posts/post-01.jpg"  # Aquí agregamos el campo de fondo
+background: "/img/posts/post-01.jpg"  # Aquí agregamos el campo de fondo
 ---
 
 Buenos días!

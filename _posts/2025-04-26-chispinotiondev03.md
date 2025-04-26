@@ -8,10 +8,10 @@ slug: "chispinotiondev03"
 mood: "Orgullosa, Motivada"
 issues: ""
 resources: "- https://github.com/startbootstrap/startbootstrap-clean-blog-jekyll"
-projects:   []
+projects: - Chispi-DevLog
 publish: true
 status: "Publicado"
-background: "C:/Users/User/Documents/GitHub/Chispi-DevLog/img/posts/post-03.jpg"  # Aquí agregamos el campo de fondo
+background: "/img/posts/post-03.jpg"  # Aquí agregamos el campo de fondo
 ---
 
 Feliz sábado!!
