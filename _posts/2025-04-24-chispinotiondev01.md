@@ -3,12 +3,12 @@ layout: post
 title: "Iniciando el DevBlog - Semana 1"
 subtitle: "Primera semana del DevBlog.\n Conecto Notion con mi blog y exporto mis posts automáticamente usando Python."
 date: 2025-04-24
-tags: ['GitHub']
+tags: ["GitHub"]
 slug: "chispinotiondev01"
-mood: "Motivada"
+mood: ["Motivada"]
 issues: "1. Error en el tipo de propiedad de la sección “Estado” → Cambiar en el script la propiedad buscada \n 2. El contenido no se escribía en el archivo .md → Modificar script para que lea el texto del apartado, comentar la sección del script en el que se genera el contenido de forma dinámica \n"
-resources: "  []"
-projects: - Chispi-DevLog
+resources:  []
+projects: ["Chispi-DevLog"]
 publish: true
 status: "Publicado"
 background: "/img/posts/post-01.jpg"  # Aquí agregamos el campo de fondo

@@ -3,12 +3,12 @@ layout: post
 title: "Blog bonito - Semana 1"
 subtitle: "Avances en la página del blog. \n Utilizar una plantilla de Bootstrap para que el blog quede más estético."
 date: 2025-04-26
-tags: ['GitHub']
+tags: ["GitHub"]
 slug: "chispinotiondev03"
-mood: "Orgullosa, Motivada"
+mood: ["Orgullosa", "Motivada"]
 issues: ""
-resources: "- https://github.com/startbootstrap/startbootstrap-clean-blog-jekyll"
-projects: - Chispi-DevLog
+resources:  ["https://github.com/startbootstrap/startbootstrap-clean-blog-jekyll"]
+projects: ["Chispi-DevLog"]
 publish: true
 status: "Publicado"
 background: "/img/posts/post-03.jpg"  # Aquí agregamos el campo de fondo

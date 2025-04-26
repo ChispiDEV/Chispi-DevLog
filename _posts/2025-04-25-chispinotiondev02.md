@@ -3,12 +3,12 @@ layout: post
 title: "Primer viernes - Semana 1"
 subtitle: "Trabajando con el Blog. \n Cambiando el aspecto de la página"
 date: 2025-04-25
-tags: ['GitHub']
+tags: ["GitHub"]
 slug: "chispinotiondev02"
-mood: "Bloqueada"
+mood: ["Bloqueada"]
 issues: "1. Página deja de cargar. \n 2. No se muestran los cambios de la apariencia"
-resources: "  []"
-projects: - Chispi-DevLog
+resources:  []
+projects: ["Chispi-DevLog"]
 publish: true
 status: "Publicado"
 background: "/img/posts/post-02.jpg"  # Aquí agregamos el campo de fondo
