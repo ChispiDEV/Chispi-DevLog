@@ -6,8 +6,9 @@ baseurl:            "/Chispi-DevLog"
 url:                "https://chispidev.github.io/Chispi-DevLog"
 
 # Social Profiles
-twitter_username:   cristinafg-it.bsky.social
+bluesky_username:   cristinafg-it.bsky.social
 github_username:    ChispiDEV
+# twitter_username: 
 # facebook_username:  
 # instagram_username:  
 linkedin_username:  cristina-fg
